@@ -142,4 +142,4 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ---
 
-**Developed by PhinIT Development © 2025**
+**Developed by PhinIT.DE © 2025**
